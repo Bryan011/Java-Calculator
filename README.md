@@ -1,2 +1,2 @@
-# Java-Calculator
-A Scientific Calculator programmed using Java
+# Java-Calculators
+An array of Calculators programmed using Java.
